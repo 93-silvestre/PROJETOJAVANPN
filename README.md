@@ -18,3 +18,11 @@ NATHALIA SILVESTRE | HENRYK MICHALICKI JR. | JESSICA DISCOLA | FELIPE HONDA | IG
 
 # O QUE É?
 Uma aplicação, para usuários que querem Doar ou Receber itens.
+Visamos resignificar o uso do celular através de um propósito, pois esse aparelho está presente em milhares de lares brasileiros e é através dele que teremos acesso às  pessoas que necessitam de ajuda.
+
+# PARA QUEM?
+Feito para todos os usuários de celular de São Paulo e região metropolitana, que podem ser possíveis Doadores, Apoiadores e Amparados. Todos os públicos podem nos dar acesso a quem mais precisa, devido ao seu ciclo de amigos/conhecidos.
+
+# USABILIDADE
+Apresentar o esboço da plataforma de forma online e testar visualmente sua funcionalidade, mostrando o resultado tanto de doador quanto amparado e a estrutura do sistema e a "forma como iremos conectar essas pessoas".
+
