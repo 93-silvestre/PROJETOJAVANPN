@@ -16,10 +16,10 @@ public class TestaTudo{
 		int Continuar = 0;
 		
 		//TeleInicial
-		System.out.println("===============================================");
+		System.out.println("==================================================");
 		System.out.println("    SEJA BEM VINDES A NÓS POR NÓS !\n        ");
 		System.out.println("  LIGANDO PESSOAS À UM PROPÓSITO MAIOR !      ");
-		System.out.println("===============================================");
+		System.out.println("==================================================");
 		
 		
 		//Cadastro ou Login
@@ -39,7 +39,7 @@ public class TestaTudo{
 		}
 		else {
 			//triagem
-			System.out.println("===============================================");
+			System.out.println("==================================================");
 			System.out.println("         ESCOLHA SEU PERFIL :\n ");
 			System.out.println("    1 - DOADOR    |    2 - AMPARADO"); 
 			ApoioOuBenef =read.nextInt();
@@ -64,7 +64,7 @@ public class TestaTudo{
 
 			//usando o res la de cima para diferencia um doador, de um beneficiario;
 			if (ApoioOuBenef == 1) {
-				System.out.println("===============================================");
+				System.out.println("==================================================");
 				System.out.println("        DESEJA FAZER MAIS UMA DOAÇÃO?\n");
 				System.out.println("         1- SIM       |         2- NAO");
 				Continuar = read.nextInt();
@@ -75,7 +75,7 @@ public class TestaTudo{
 				Doa1.Doacao(read);
 			}
 			else {
-				System.out.println("===============================================");
+				System.out.println("==================================================");
 				System.out.println("         DESEJA FAZER MAIS UM PEDIDO?\n ");
 				System.out.println("          1- SIM       |         2- NAO");
 				Continuar = read.nextInt();
@@ -91,6 +91,7 @@ public class TestaTudo{
 			//Mensagem de agradecimento
 			if (ApoioOuBenef ==1) {	
 			Doa1.MessagemDoador(read);
+			
 		}
 			else {
 			Recebe1.MessagemReceptor(read);
